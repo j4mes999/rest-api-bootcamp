@@ -1,7 +1,7 @@
 # rest-api-bootcamp
 API exposing two end points: 
 1. The popular hello world 
-2. 2. Bitcoin price in the currency the user wants  
+2. Current Bitcoin price in GBP, USD and EUR  
  
 The service is built using node js and express.
 
